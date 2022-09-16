@@ -1,0 +1,26 @@
+[{
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "phones"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "televisions"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "laptops"
+    },
+    {
+        "category_id": 2,
+        "sub_category_id": 4,
+        "sub_category_name": "T-shirt"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 5,
+        "sub_category_name": "cook"
+    }
+]

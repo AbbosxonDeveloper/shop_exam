@@ -1,0 +1,65 @@
+[{
+        "sub_category_id": 1,
+        "product_id": 1,
+        "model": "iphone",
+        "product_name": "iphone 14",
+        "color": "gray",
+        "price": 1400
+    },
+    {
+        "sub_category_id": 1,
+        "product_id": 2,
+        "model": "samsung",
+        "product_name": "samsung 100",
+        "color": "red",
+        "price": 250
+    },
+    {
+        "sub_category_id": 2,
+        "product_id": 3,
+        "model": "huawey",
+        "product_name": "huawey 550",
+        "color": "black",
+        "price": 800
+    },
+    {
+        "sub_category_id": 3,
+        "product_id": 4,
+        "model": "asus",
+        "product_name": "asus 7",
+        "color": "yellow",
+        "price": 720
+    },
+    {
+        "sub_category_id": 4,
+        "product_id": 5,
+        "model": "nike",
+        "product_name": "palma_boy",
+        "color": "aqua",
+        "price": 160
+    },
+    {
+        "sub_category_id": 3,
+        "product_id": 6,
+        "model": "mac",
+        "product_name": "macbook air",
+        "color": "pink",
+        "price": 2100
+    },
+    {
+        "sub_category_id": 3,
+        "product_id": 7,
+        "model": "mac",
+        "product_name": "macbook fresh",
+        "color": "orange",
+        "price": 1900
+    },
+    {
+        "sub_category_id": 5,
+        "product_id": 8,
+        "model": "cake",
+        "product_name": "rafaello_cake",
+        "color": "doesn't matter",
+        "price": 160
+    }
+]
